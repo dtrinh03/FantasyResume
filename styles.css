@@ -1,0 +1,18 @@
+header{
+  text-align: center;
+  color:#fff;
+  background-color:#914040;
+  margin:20px 0px;
+  font-size: 30px;
+}
+
+.quote{
+  color: #fff;
+  font-size:25px;
+  font-style: italic;
+}
+
+.Skills{
+  text-align: left;
+  font-family: sans-serif;
+}
